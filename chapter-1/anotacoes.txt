@@ -1,0 +1,20 @@
+
+Console.log(`---- Tipos ----`)
+
+Console.log(`1. Numericos`)
+
+Console.log(`Inteiro positivo: ${5}`)
+Console.log(`Inteiro negativo: ${-5}`)
+Console.log(`Fracionado positivo: ${10.42163}`)
+Console.log(`Fracionado negativo: ${-10.42163}`)
+Console.log(`Nao numerico: ${NaN}`)
+Console.log(`Infinity positivo: ${Infinity}`)
+Console.log(`Infinity negativo: ${-Infinity}`)
+
+Console.log(`2. Operadores`)
+Console.log(`Adicao: 5 + 2 = ${5 + 2}`)
+Console.log(`Adicao negativo: -10 + -2 = ${-10 + - 2}`)
+Console.log(`Subtracao positivo: 5 - 2 = ${5 - 2}`)
+Console.log(`Subtracao negativo: - 5 - 2 = ${- 5 - 2}`)
+Console.log(`Fracionado positivo: 10.5 - 2 = ${10.5 - 2}`)
+Console.log(`Fracionado negativo: -10.5 - 2 = ${-10.5 - 2}`)
