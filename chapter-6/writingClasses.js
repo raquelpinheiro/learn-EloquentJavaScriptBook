@@ -1,4 +1,3 @@
-
 // Before 2015
 function Pet(type){
     this.type = type;
